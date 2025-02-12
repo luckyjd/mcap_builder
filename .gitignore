@@ -170,7 +170,8 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-.raw_data/
+
 .idea
 *.mcap
 *.urdf
+/raw_data/
