@@ -124,7 +124,7 @@ def mcap_builder(output_mcap, scene_path):
 
 
 if __name__ == '__main__':
-    output_mcap = "task_0004_user_0016_scene_0009_cfg_0003.mcap"
+    output_mcap = "task_0004_user_0016_scene_0009_cfg_0003_bk.mcap"
     # scene_path = "raw_data/task_0004_user_0016_scene_0003_cfg_0003"
     scene_path = "raw_data/task_0004_user_0016_scene_0009_cfg_0003"
     mcap_builder(output_mcap, scene_path)
