@@ -3,9 +3,6 @@ import rosbag2_py
 import json
 import os
 
-
-
-
 if __name__ == '__main__':
     # Input MCAP file
     mcap_file = "/home/nhattx/Workspace/VR/Data_platform/source/mcap_builder/h1_example.mcap"
