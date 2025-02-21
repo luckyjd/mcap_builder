@@ -35,6 +35,13 @@ Transform LeRobotDataset to MCAP, one episode per file.
   - wait for transform data
 
 
-## Install foxglove for visualize 
+## Install foxglove for visualize
+
+- Create foxglove account
+- Download foxglove : https://foxglove.dev/download
+- Install, login
+- Open app > Open local file > point to mcap file
+- Add layout ( or download from  [Here](https://vingroupjsc-my.sharepoint.com/:u:/g/personal/vr_project01_vingroup_net/EQPjUiuQjqBLjUuADBPV8nMBuhlbyg0HBJ9osjh7AWzUFg?e=JJLx0d))
+ 
 
 
