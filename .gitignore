@@ -176,4 +176,4 @@ cython_debug/
 *.urdf
 /raw_data/
 
-test.*
+test*.*
