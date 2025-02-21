@@ -7,7 +7,8 @@
 
 - Setup UV :
   - `$ cd /project/path/where/include/uv.lock`
-  - `uv sync`
+  - `$ uv sync`
+  - `$ source .env/bin/activate`
 
 - Each dataset folder have it's own `requirements.txt` . You can install only this file for only this dataset
 
