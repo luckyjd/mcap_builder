@@ -1,0 +1,14 @@
+{
+  "title": "2dof",
+  "type": "object",
+  "properties": {
+    "timestamp": { "type": "integer", "description": "Nanosecond timestamp" },
+    "joint_state": {
+      "type": "array",
+      "items": { "type": "number" },
+      "minItems": 2,
+      "maxItems": 2,
+      "description": "Base for robot (2 DOF)"
+    }
+  }
+}

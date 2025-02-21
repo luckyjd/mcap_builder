@@ -175,3 +175,5 @@ cython_debug/
 *.mcap
 *.urdf
 /raw_data/
+
+test.*

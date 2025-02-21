@@ -1,0 +1,9 @@
+mcap==1.2.2
+opencv-python==4.11.0.86
+numpy
+tyro==0.9.5
+pillow==11.1.0
+
+
+# lerobot --> chưa check hết dependency, cài được thì cài , không thì dùng qua uv.lock
+git+https://github.com/huggingface/lerobot@6674e368249472c91382eb54bb8501c94c7f0c56
