@@ -15,6 +15,7 @@
 ## Run convert script
 - Example /aloha_lerobot --> mcap :
   - `$ cd /project/path/`
+  - `$ export PYTHONPATH=/project/path`
   - `$ python aloha_lerobot/build.py --help`
 ```
 usage: build.py [-h] --dataset-path PATH --output-path PATH [--episode-idx INT]
